@@ -1,0 +1,11 @@
+.admin{
+    text-align: center;
+}
+
+p{
+    padding: 5px;
+}
+
+nav ul li a.activo{
+    background-color: #4c76a5;
+}
